@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+    scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: "Geist", sans-serif;
+    font-size: 17px;
+}
