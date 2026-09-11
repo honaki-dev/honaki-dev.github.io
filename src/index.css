@@ -8,7 +8,11 @@
     display: none;
 }
 
-body {
+html {
+    font-size: 62.5%;
     font-family: "Geist", sans-serif;
-    font-size: 17px;
+}
+
+body {
+    font-size: 1.6rem;
 }
